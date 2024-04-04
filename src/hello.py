@@ -1,1 +1,2 @@
-print('Palita Bonita')
+a= print()
+b= print
